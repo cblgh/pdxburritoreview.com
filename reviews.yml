@@ -259,6 +259,21 @@
                 it's a food place that serves mezcal. They have a skull in their logo so that's pretty cool. They're
                 pretty busy a lot of the time and the parking lot sucks. I don't think I have anything useful to
                 say other than that their nachos were alright, and they give you free chips.
+- Malmö:
+    - Burrito Friends:
+        address: "Fersens väg 16, Malmö, Sweden, 211 42"
+        breakfast: false
+        speed: 4
+        price: 4
+        tasty: 3
+        heavy: 2
+        reviews:
+         - author: cblgh
+           text: >
+               One of the only burrito places I know of in Sweden. Pretty decent all-rounder. What's extra good
+               is you can get a menu which includes some chips, froyo and lemonade for like 30 SEK extra.
+               Wide selection of fillings, tasted both the minced quorn and pulled oompf.
+
 
 # - Taqueria Y Panaderia Santa Cruz ( St. Johns)
 
